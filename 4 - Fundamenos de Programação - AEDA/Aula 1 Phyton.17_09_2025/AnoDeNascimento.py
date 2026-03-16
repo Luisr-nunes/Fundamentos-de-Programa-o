@@ -1,4 +1,4 @@
 Idade = int(input("Informe sua idade: "))
-anodenascimento = 2025 - Idade
+anoDeNascimento = 2025 - Idade
 
-print(f"Você nasceu em: {anodenascimento}")
+print(f"Você nasceu em: {anoDeNascimento}")
