@@ -1,65 +1,84 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/💻_Análise_e_Desenvolvimento_de_Sistemas-Cesar_School-0052CC?style=for-the-badge&logoColor=white" alt="Curso"/>
+# 🧱 Fundamentos de Programação
 
-# 💻 Fundamentos de Programação
-
-### Base Lógica e Estrutural para Desenvolvimento
+### Base lógica e estrutural para o desenvolvimento de sistemas
 
 <br>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Portugol](https://img.shields.io/badge/Portugol-pseudocódigo-6A0DAD?style=flat-square)
+![Semestre](https://img.shields.io/badge/Semestre-2025.1-FFB300?style=flat-square)
+![Instituição](https://img.shields.io/badge/Instituição-CESAR_School-A0522D?style=flat-square)
+![Curso](https://img.shields.io/badge/Curso-ADS-8A2BE2?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Concluído-2E8B57?style=flat-square)
-![Disciplina](https://img.shields.io/badge/Disciplina-Fundamentos_de_Programação-8B6914?style=flat-square)
-![Instituição](https://img.shields.io/badge/Instituição-Cesar_School-A0522D?style=flat-square)
-![Formato](https://img.shields.io/badge/Tecnologias-[Sua_Linguagem_Aqui]-4A4A4A?style=flat-square)
 
 <br>
 
-> *Repositório com os primeiros passos, algoritmos e estruturas de dados*
-> *desenvolvidos na base do curso de Análise e Desenvolvimento de Sistemas.*
+> *Atividades desenvolvidas no semestre **2025.1** durante a disciplina de*
+> *Fundamentos de Programação — curso de Análise e Desenvolvimento de Sistemas, CESAR School.*
 
 </div>
 
 ---
 
-## 📋 Sobre este Repositório
+## Sobre o Repositório
 
-Este espaço concentra os códigos desenvolvidos durante a disciplina de Fundamentos de Programação. As atividades englobam desde a declaração de variáveis simples até a construção de lógicas complexas de repetição, condição e manipulação de coleções de dados.
-
----
-
-## 📁 Tópicos Abordados
-
-| Tópico | Tipo | Descrição |
-|---|---|---|
-| `Variáveis e Tipos` | 📄 Código | Práticas de tipagem e alocação de memória |
-| `Estruturas de Decisão` | 📄 Código | Lógicas com `if`, `else`, e `switch` |
-| `Estruturas de Repetição` | 📄 Código | Implementações de laços `for` e `while` |
-| `Arrays / Matrizes` | 📄 Código | Manipulação e iteração sobre coleções de dados |
+Este repositório reúne as atividades práticas da disciplina de **Fundamentos de Programação**, que marca o ponto de partida na jornada de desenvolvimento de software. As atividades cobrem desde a construção do raciocínio lógico com **Portugol** (pseudocódigo), até a implementação prática dos mesmos algoritmos em **Python**.
 
 ---
 
-## 🎯 Objetivo da Disciplina
+## Estrutura
 
-Estabelecer uma base sólida em raciocínio lógico-matemático voltado para a computação, garantindo a habilidade de fragmentar problemas complexos em pequenos passos solucionáveis através de algoritmos.
-
----
-
-## 📌 Como Executar
-
-1. Clone o repositório em sua máquina.
-2. Acesse a pasta do exercício correspondente.
-3. Utilize o compilador ou interpretador da linguagem utilizada (`[ex: node arquivo.js ou gcc arquivo.c]`) para rodar os testes no terminal.
+| Pasta | Descrição |
+|---|---|
+| `4 - Fundamentos de Programação - AEDA/` | Atividades práticas do semestre 2025.1 |
 
 ---
 
-## 👨‍💻 Desenvolvedor
+## Distribuição por Linguagem
+
+```
+Python      █████████████░░░░░░░  66.7%
+Portugol    ██████░░░░░░░░░░░░░░  33.3%
+```
+
+> O **Portugol** é usado para construir o raciocínio algorítmico antes da implementação.
+> O **Python** coloca esse raciocínio em prática com uma linguagem real.
+
+---
+
+## Conteúdos Abordados
+
+- Lógica de programação e raciocínio algorítmico
+- Variáveis, tipos de dados e operadores
+- Estruturas de decisão: `if`, `else`, `elif`
+- Estruturas de repetição: `for`, `while`
+- Funções e modularização
+- Vetores, listas e manipulação de coleções
+- Pseudocódigo com Portugol → implementação em Python
+
+---
+
+## Como Executar
+
+Os arquivos Python podem ser executados diretamente no terminal:
+
+```bash
+# Executar um arquivo Python
+python nome_do_arquivo.py
+```
+
+> Para os arquivos Portugol, utilize o **VisuAlg** ou o **Portugol Studio**, disponíveis gratuitamente.
+
+---
+
+## Autor
 
 <div align="center">
 
 **Luis Nunes**
-Desenvolvedor Full-Stack · Análise e Desenvolvimento de Sistemas
-Cesar School
+Estudante de ADS — CESAR School
 
 [![GitHub](https://img.shields.io/badge/GitHub-Luisr--nunes-181717?style=flat-square&logo=github)](https://github.com/Luisr-nunes)
 
@@ -69,6 +88,6 @@ Cesar School
 
 <div align="center">
 
-*📚 Material de estudo acadêmico — Cesar School*
+*📚 Material acadêmico — CESAR School · Semestre 2025.1*
 
 </div>
