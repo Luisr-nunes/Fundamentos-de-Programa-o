@@ -15,7 +15,7 @@
 
 <br>
 
-> *Atividades desenvolvidas no semestre **2025.1** durante a disciplina de*
+> *Atividades desenvolvidas no semestre **2025.2** durante a disciplina de*
 > *Fundamentos de Programação — curso de Análise e Desenvolvimento de Sistemas, CESAR School.*
 
 </div>
@@ -32,7 +32,7 @@ Este repositório reúne as atividades práticas da disciplina de **Fundamentos 
 
 | Pasta | Descrição |
 |---|---|
-| `4 - Fundamentos de Programação - AEDA/` | Atividades práticas do semestre 2025.1 |
+| `4 - Fundamentos de Programação - AEDA/` | Atividades práticas do semestre 2025.2 |
 
 ---
 
