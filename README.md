@@ -1,93 +1,53 @@
-<div align="center">
+# Fundamentos de Programação
 
-# 🧱 Fundamentos de Programação
+<!-- badges -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Portugol](https://img.shields.io/badge/Portugol-4A4A4A?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Base lógica e estrutural para o desenvolvimento de sistemas
+[Read in English](README.en.md)
 
-<br>
+Atividades da disciplina de Fundamentos de Programação (semestre 2025.2, Cesar School), do raciocínio lógico em Portugol à implementação em Python.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Portugol](https://img.shields.io/badge/Portugol-pseudocódigo-6A0DAD?style=flat-square)
-![Semestre](https://img.shields.io/badge/Semestre-2025.1-FFB300?style=flat-square)
-![Instituição](https://img.shields.io/badge/Instituição-CESAR_School-A0522D?style=flat-square)
-![Curso](https://img.shields.io/badge/Curso-ADS-8A2BE2?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Concluído-2E8B57?style=flat-square)
+## Sobre
 
-<br>
+A disciplina começa com pseudocódigo em Portugol, para construir o raciocínio algorítmico, e depois leva os mesmos problemas para Python. O semestre termina com um CRUD em Python e SQLite.
 
-> *Atividades desenvolvidas no semestre **2025.2** durante a disciplina de*
-> *Fundamentos de Programação — curso de Análise e Desenvolvimento de Sistemas, CESAR School.*
+## Conteúdo
 
-</div>
+Todas as pastas ficam em `4 - Fundamenos de Programação - AEDA/`.
 
----
+| Pasta | Linguagem | Conteúdo |
+| --- | --- | --- |
+| `Portugol/27-08-2025`, `Portugol/03-09-2025` | Portugol | Entrada e saída, cálculo de média, conversões, estruturas de decisão, cadastro de cliente |
+| `Ficha Da AV1` | Portugol | Lista da primeira avaliação: caixa registradora, bilheteria de cinema, simulador de investimentos, controle de presença, consumo de combustível e de tinta, entre outros |
+| `Aula 1 Phyton.17_09_2025` | Python | Primeiros programas: IMC, média, conversor de temperatura, custo de viagem, posto de gasolina, calculadora |
+| `Aula 2 Python.24_09_2025` | Python | Material da aula organizado em conceitos básicos, estruturas de controle, funções e escopo, listas e exercícios |
+| `Aula 3 Phyton.01_10_2025`, `Aula 4 Python.29_10_2025` | Python | Exercícios de laços e listas |
+| `AulaDeDicionario_05_11` | Python | Dicionários |
+| `RevisãoPython`, `RevisãoPython2` | Python | Listas de revisão para a avaliação |
+| `CRUD` | Python + SQLite | Cadastro de especialidades médicas com inclusão, listagem, alteração e exclusão (`Especialidades.py`) |
 
-## Sobre o Repositório
+## Conteúdos praticados
 
-Este repositório reúne as atividades práticas da disciplina de **Fundamentos de Programação**, que marca o ponto de partida na jornada de desenvolvimento de software. As atividades cobrem desde a construção do raciocínio lógico com **Portugol** (pseudocódigo), até a implementação prática dos mesmos algoritmos em **Python**.
+- Variáveis, tipos e operadores
+- Decisão (`if`, `elif`, `else`) e repetição (`for`, `while`)
+- Funções, escopo e modularização
+- Listas e dicionários
+- Persistência com `sqlite3` e tratamento de erros de integridade
 
----
+## Como executar
 
-## Estrutura
-
-| Pasta | Descrição |
-|---|---|
-| `4 - Fundamentos de Programação - AEDA/` | Atividades práticas do semestre 2025.2 |
-
----
-
-## Distribuição por Linguagem
-
-```
-Python      █████████████░░░░░░░  66.7%
-Portugol    ██████░░░░░░░░░░░░░░  33.3%
-```
-
-> O **Portugol** é usado para construir o raciocínio algorítmico antes da implementação.
-> O **Python** coloca esse raciocínio em prática com uma linguagem real.
-
----
-
-## Conteúdos Abordados
-
-- Lógica de programação e raciocínio algorítmico
-- Variáveis, tipos de dados e operadores
-- Estruturas de decisão: `if`, `else`, `elif`
-- Estruturas de repetição: `for`, `while`
-- Funções e modularização
-- Vetores, listas e manipulação de coleções
-- Pseudocódigo com Portugol → implementação em Python
-
----
-
-## Como Executar
-
-Os arquivos Python podem ser executados diretamente no terminal:
+Pré-requisito: Python 3.
 
 ```bash
-# Executar um arquivo Python
-python nome_do_arquivo.py
+git clone https://github.com/Luisr-nunes/Fundamentos-de-Programa-o.git
+cd "Fundamentos-de-Programa-o/4 - Fundamenos de Programação - AEDA"
+
+python "Aula 1 Phyton.17_09_2025/CalculoIMC.py"
+cd CRUD && python Especialidades.py
 ```
 
-> Para os arquivos Portugol, utilize o **VisuAlg** ou o **Portugol Studio**, disponíveis gratuitamente.
-
----
+Os arquivos `.por` abrem no [Portugol Studio](https://univali-lite.github.io/Portugol-Studio/) ou no [Portugol Webstudio](https://portugol.dev/).
 
 ## Autor
 
-<div align="center">
-
-**Luis Nunes**
-Estudante de ADS — CESAR School
-
-[![GitHub](https://img.shields.io/badge/GitHub-Luisr--nunes-181717?style=flat-square&logo=github)](https://github.com/Luisr-nunes)
-
-</div>
-
----
-
-<div align="center">
-
-*📚 Material acadêmico — CESAR School · Semestre 2025.1*
-
-</div>
+Luís Nunes — [GitHub](https://github.com/Luisr-nunes) · [LinkedIn](https://www.linkedin.com/in/luis-nunes-dev/)
