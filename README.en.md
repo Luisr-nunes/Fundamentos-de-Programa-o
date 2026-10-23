@@ -1,5 +1,8 @@
 # Programming Fundamentals
 
+<!-- badges -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Portugol](https://img.shields.io/badge/Portugol-4A4A4A?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 [Ler em Português](README.md)
 
 Assignments from the Programming Fundamentals course (2025.2 semester, Cesar School), from logical reasoning in Portugol to implementation in Python.

@@ -1,5 +1,8 @@
 # Fundamentos de Programação
 
+<!-- badges -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Portugol](https://img.shields.io/badge/Portugol-4A4A4A?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 [Read in English](README.en.md)
 
 Atividades da disciplina de Fundamentos de Programação (semestre 2025.2, Cesar School), do raciocínio lógico em Portugol à implementação em Python.
